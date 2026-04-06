@@ -3,3 +3,4 @@
 ## Topics Covered
 - Traversal
 - Insertion
+- Reverse 
