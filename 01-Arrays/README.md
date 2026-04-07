@@ -5,3 +5,4 @@
 - Insertion
 - Reverse 
 - Deletion
+- Find Max & Min Element
