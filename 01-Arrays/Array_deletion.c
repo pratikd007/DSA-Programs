@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-      int array[],i,j,n,val,found = 0;
+      int array[10],i,j,n,val,found = 0;
   
       printf("Enter the number of element : ");       // Input the size of array
       scanf("%d",&n);
@@ -9,7 +9,7 @@ int main()
       printf("Enter the array element : ");       // Input the array element 
       for(i = 0;i < n;i++)
         {
-            scanf("%d",&array[i]]);
+            scanf("%d",&array[i]);
         }
 
       printf("Enter the element to delete : ");         // Input the delete value
