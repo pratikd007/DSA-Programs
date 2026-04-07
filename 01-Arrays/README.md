@@ -4,3 +4,4 @@
 - Traversal
 - Insertion
 - Reverse 
+- Deletion
