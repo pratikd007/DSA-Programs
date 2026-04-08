@@ -5,4 +5,5 @@
 - Insertion
 - Reverse 
 - Deletion
-- Find Max & Min Element
+- Find Max & Min Elements
+- Find Even and Odd ELements
