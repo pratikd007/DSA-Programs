@@ -28,5 +28,5 @@ int main()
     printf("Total Even elements in  the array : %d\n",even);
     printf("Total Odd elements in the array : %d\n",odd);
 
-    getch();
+    return 0;
 }
