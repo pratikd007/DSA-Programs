@@ -31,8 +31,8 @@ I am consistently solving problems and improving my logic for coding interviews.
 
 DSA/
 │── Arrays/
-│── Sorting/
 │── Searching/
+│── Sorting/
 │── Stack/
 │── Queue/
 
@@ -67,10 +67,10 @@ gcc filename.c
 
 | Topic     | Status         |
 | --------- | -------------- |
-| Arrays    | ✅ Complete |
-| Sorting   | 🔄 In Progress |
+| Arrays    | ✅ Complete    |
 | Searching | 🔄 In Progress |
-| Stack     | 🔄 In Progress |
+| Sorting   | ⏳ Coming Soon |
+| Stack     | ⏳ Coming Soon |
 | Trees     | ⏳ Coming Soon |
 
 ---
