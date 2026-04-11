@@ -67,7 +67,7 @@ gcc filename.c
 
 | Topic     | Status         |
 | --------- | -------------- |
-| Arrays    | 🔄 In Progress |
+| Arrays    | ✅ Complete |
 | Sorting   | 🔄 In Progress |
 | Searching | 🔄 In Progress |
 | Stack     | 🔄 In Progress |
