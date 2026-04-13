@@ -2,3 +2,4 @@
 
 ## Topic covered
 - Linear Search
+- Binary search
