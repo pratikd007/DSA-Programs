@@ -68,8 +68,8 @@ gcc filename.c
 | Topic     | Status         |
 | --------- | -------------- |
 | Arrays    | ✅ Complete    |
-| Searching | 🔄 In Progress |
-| Sorting   | ⏳ Coming Soon |
+| Searching | ✅ Complete    |
+| Sorting   | 🔄 In Progress |
 | Stack     | ⏳ Coming Soon |
 | Trees     | ⏳ Coming Soon |
 
