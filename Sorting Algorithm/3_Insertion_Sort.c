@@ -7,16 +7,19 @@ int main() {
     scanf("%d", &n);
 
     printf("Enter elements:\n");
-    for(i = 0; i < n; i++) {
+    for(i = 0; i < n; i++) 
+    {
         scanf("%d", &arr[i]);
     }
-                                         // Insertion Sort
-    for(i = 1; i < n; i++) {
+    
+    for(i = 1; i < n; i++)                      // Insertion Sort
+    {                   
         key = arr[i];
         j = i - 1;
 
         // Shift elements greater than key
-        while(j >= 0 && arr[j] > key) {
+        while(j >= 0 && arr[j] > key) 
+        {
             arr[j + 1] = arr[j];
             j--;
         }
@@ -25,7 +28,8 @@ int main() {
     }
 
     printf("Sorted array:\n");
-    for(i = 0; i < n; i++) {
+    for(i = 0; i < n; i++) 
+    {
         printf("%d ", arr[i]);
     }
 
