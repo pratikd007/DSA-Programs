@@ -2,4 +2,4 @@
 
 ## Topic covered
 - Bubble Sort
-  
+- Selection Sort
