@@ -3,3 +3,4 @@
 ## Topic covered
 - Bubble Sort
 - Selection Sort
+- Insertion Sort
