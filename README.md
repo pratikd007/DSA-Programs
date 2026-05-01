@@ -22,8 +22,7 @@ I am consistently solving problems and improving my logic for coding interviews.
 * 🔄 Sorting (Bubble, Selection, Quick Sort, Merge Sort)
 * 📚 Stack & Queue
 * 🌳 Trees (Coming Soon)
-* 🧠 Recursion
-* 💡 Dynamic Programming (Coming Soon)
+* 📊 Graphs(Coming Soon)
 
 ---
 
@@ -35,6 +34,8 @@ DSA/
 │── Sorting/
 │── Stack/
 │── Queue/
+│── Trees/
+│── Graphs/
 
 ---
 
@@ -72,6 +73,7 @@ gcc filename.c
 | Sorting   | 🔄 In Progress |
 | Stack     | ⏳ Coming Soon |
 | Trees     | ⏳ Coming Soon |
+| Graph     | ⏳ Coming Soon |
 
 ---
 
