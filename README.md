@@ -21,6 +21,7 @@ I am consistently solving problems and improving my logic for coding interviews.
 * 🔍 Searching (Binary Search, Linear Search)
 * 🔄 Sorting (Bubble, Selection, Quick Sort, Merge Sort)
 * 📚 Stack & Queue
+* 🔗 Linked List
 * 🌳 Trees (Coming Soon)
 * 📊 Graphs(Coming Soon)
 
@@ -34,6 +35,7 @@ DSA/
 │── Sorting/
 │── Stack/
 │── Queue/
+│── Linked List/
 │── Trees/
 │── Graphs/
 
@@ -66,14 +68,15 @@ gcc filename.c
 
 ## 🌟 Progress Tracker
 
-| Topic     | Status         |
-| --------- | -------------- |
-| Arrays    | ✅ Complete    |
-| Searching | ✅ Complete    |
-| Sorting   | 🔄 In Progress |
-| Stack     | ⏳ Coming Soon |
-| Trees     | ⏳ Coming Soon |
-| Graph     | ⏳ Coming Soon |
+| Topic       | Status         |
+| ---------   | -------------- |
+| Arrays      | ✅ Complete    |
+| Searching   | ✅ Complete    |
+| Sorting     | ✅ Complete    |
+| Stack/Queue | ✅ Complete    |
+| Linked List | 🔄 In Progress |
+| Trees       | ⏳ Coming Soon |
+| Graph       | ⏳ Coming Soon |
 
 ---
 
